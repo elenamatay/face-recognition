@@ -8,7 +8,7 @@
 **By:** Elena (authoring exercises solution code only).
 
 ## Overview
-In this notebook, we built a face recognition system. Many of the ideas presented here are from [FaceNet](https://arxiv.org/pdf/1503.03832.pdf). Steps performed:
+In this notebook, I built a face recognition system. Many of the ideas presented here are from [FaceNet](https://arxiv.org/pdf/1503.03832.pdf). Steps performed:
 
 * Differentiate between face recognition and face verification
 * Implement one-shot learning to solve a face recognition problem
